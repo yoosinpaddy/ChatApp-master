@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583676685954",
+    "firebase_url": "https://p2p-chat-3b417.firebaseio.com",
+    "project_id": "p2p-chat-3b417",
+    "storage_bucket": "p2p-chat-3b417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583676685954:android:74feeb9feaea61ebaace9b",
+        "android_client_info": {
+          "package_name": "com.Trichain.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583676685954-2esbkkm54pjvls1haqsbncjmj14lqm8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Trichain.chatapp",
+            "certificate_hash": "edabc5f5a5aa1992bd21b017f062d223fc32e4e1"
+          }
+        },
+        {
+          "client_id": "583676685954-4fhhfiditjlnlcslf18vu058kba25rik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZVc_C_FVrvb2iHptrCUav5E4SK08ALw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583676685954-4fhhfiditjlnlcslf18vu058kba25rik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

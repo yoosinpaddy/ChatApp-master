@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: me.jahirfiquitiva:FABsMenu:1.1.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/596154dbeeb7ab9a6737227ccfe5bb91/jetified-FABsMenu-1.1.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/596154dbeeb7ab9a6737227ccfe5bb91/jetified-FABsMenu-1.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/596154dbeeb7ab9a6737227ccfe5bb91/jetified-FABsMenu-1.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/596154dbeeb7ab9a6737227ccfe5bb91/jetified-FABsMenu-1.1.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.jahirfiquitiva/FABsMenu/1.1.1/3b5cd93750257a777a61664b4f773fdf4b5f035a/FABsMenu-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.jahirfiquitiva/FABsMenu/1.1.1/a0ed5b06fc1f543a4e40bde68c1164cdb80858e8/FABsMenu-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

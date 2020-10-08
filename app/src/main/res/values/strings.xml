@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Peer to Peer</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="default_notification_channel_id">default</string>
+</resources>
